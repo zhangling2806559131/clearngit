@@ -1,1 +1,3 @@
-这是一个新学习的内容，有关GIT的操作，注册gitTub，并创建一个远程库，本地关联一个远程库，并把本地的内容推送上去
+i这是一个新学习的内容，有关GIT的操作，注册gitTub，并创建一个远程库，本地关联一个远程库，并把本地的内容推送上去
+bulid a new branch dev
+fvasdddswwwwwwwhhhh
